@@ -29,8 +29,13 @@ Here are my aspirations:
 - I would like to transition to a management role after maybe 5 years
 - I would like to open a company based on LIDAR Surveying after that
 
+Here are my upcoming tasks before I can move onto aspirations.
+[x] Get into a university
+[] Get an internship
+[] graduate from university
+[] get a software engineering role at a company
+
 And thats it folks!
 
-Here is my linked in:
-https://www.linkedin.com/in/supratik-banerjee-877548188/
+[Here is my linkedin](https://www.linkedin.com/in/supratik-banerjee-877548188/)
 
